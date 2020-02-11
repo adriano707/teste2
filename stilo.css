@@ -1,0 +1,36 @@
+.btn {
+    position: left;
+    text-align: center;
+    margin-top: auto;
+    background-color: #81DAF5;
+    font-family: initial;
+    color: black;
+    width: 90px;
+    height: 30px;
+}
+
+.btn2 {
+    text-align: center;
+    margin-top: auto;
+    font-family: initial;
+    background-color: #F5A9A9;
+    color: black;
+    width: 90px;
+    height: 30px;
+}
+
+.cadastro {
+    font-display: block;
+    font-size: 18px;
+    size: 400pt;
+    background-color: white;
+}
+
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+p {
+    margin: 10px;
+}
